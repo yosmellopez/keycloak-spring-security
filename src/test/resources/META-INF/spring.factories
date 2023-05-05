@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+org.ylplabs.keycloak.config.SqlTestContainersSpringContextCustomizerFactory
